@@ -1,3 +1,3 @@
 cd %~dp0
-python pybilibili.py
+python main.py
 pause
